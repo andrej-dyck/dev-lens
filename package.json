@@ -13,7 +13,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint --max-warnings=0",
-    "lint:fix": "next lint --fix"
+    "lint:fix": "next lint --fix",
+    "format": "dprint fmt",
+    "format:check": "dprint check"
   },
   "dependencies": {
     "next": "12.2.4",
