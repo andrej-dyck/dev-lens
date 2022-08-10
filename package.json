@@ -2,6 +2,12 @@
   "name": "dev-lens",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=14.0.0",
+    "pnpm": ">=7.9.0",
+    "npm": "please-use-pnpm",
+    "yarn": "please-use-pnpm"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
