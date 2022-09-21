@@ -1,2 +1,3 @@
-# dev-lens
-🖥 A develoment-focused dashboard that lets developement teams keep track of their software projects
+# DevLens - Devevloment Lens Dashboard
+
+🖥 A development-focused dashboard that lets development teams keep track of their software projects.
