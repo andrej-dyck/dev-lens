@@ -84,7 +84,19 @@
     },
     {
       "files": [
-        "*.js"
+        "tests/**/*.ts",
+        "tests/**/*.tsx"
+      ],
+      "plugins": [
+        "jest"
+      ],
+      "extends": [
+        "plugin:jest/recommended"
+      ]
+    },
+    {
+      "files": [
+        "./*.js"
       ],
       "extends": [
         "eslint:recommended"

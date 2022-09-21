@@ -10,6 +10,12 @@ Install dependencies:
 pnpm install
 ```
 
+Run tests:
+
+```bash
+pnpm test
+```
+
 Run the development server and open [http://localhost:3000](http://localhost:3000):
 
 ```bash
