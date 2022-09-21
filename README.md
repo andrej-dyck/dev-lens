@@ -18,7 +18,7 @@ pnpm run dev
 
 ### Prerequisites
 
-- [pnpm](https://pnpm.io/) version 7.9.0
+- [pnpm](https://pnpm.io/) version 7.12.1
   ```bash
   npm install -g pnpm && pnpm setup
   ```
